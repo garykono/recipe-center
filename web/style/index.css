@@ -1,0 +1,17 @@
+body{
+    padding-bottom: 32px;
+}
+
+.jumbotron {
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
+
+.card > img {
+    height: 400px;
+}
+
+.card-text {
+    min-height: 100px;
+    max-height: 100px;
+}
